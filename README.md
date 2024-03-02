@@ -1,4 +1,4 @@
-I developed a Burger-Making simulator using Java, allowing players to engage with a virtual kitchen environment where they can interact with a chef to craft their customized burgers. Leveraging Java's robust object-oriented programming features, I structured the game to enable seamless customization options, such as adding or omitting vegetables from the burger. 
+This is a Burger-Making simulator using Java, allowing players to engage in a virtual kitchen environment where they can interact with a chef to craft their customized burgers. Leveraging Java's robust object-oriented programming features, I structured the game to enable seamless customization options, such as adding or omitting vegetables from the burger. 
 
 Notably, each modification influences the burger's final price, with the addition of vegetables resulting in a higher cost. This implementation ensures a dynamic and immersive gaming experience, where players can tailor their burgers according to their preferences while experiencing the intricacies of culinary decision-making.
 
